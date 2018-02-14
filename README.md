@@ -1,3 +1,3 @@
-# Neurolinguistics Research Proposal I
+# Sociolinguistics Research Proposal I
 
-The Impact of Bilingualism on the Metalinguistic Awareness Developments of ASL-English 
+Language Attitude Change of Yue Dialect speakers Towards Putonghua in Guangzhou
