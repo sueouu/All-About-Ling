@@ -1,2 +1,3 @@
-# Ling Research Proposals
-This is the place where I store my undergrad linguistics research proposals (at least the ones I was able to dig up from my old laptop so far). More updates soon...
+# Neurolinguistics Research Proposal I
+
+The Impact of Bilingualism on the Metalinguistic Awareness Developments of ASL-English 
