@@ -1,2 +1,2 @@
-# Ling Research Proposals
-This is the place where I store my undergrad linguistics research proposals (at least the ones I was able to dig up from my old laptop so far). More updates soon...
+# Speech Act Follow Up Study Proposal
+Proposed follow-up study on the Speech Act Theory introduced by J.L. Austin and John R. Searle
